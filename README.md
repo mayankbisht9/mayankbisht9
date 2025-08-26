@@ -4,7 +4,7 @@ Hi 👋 My name is Mayank
 💡 Data Analyst | Business Analytics Enthusiast
 ------------------------------------------------------------
 
-🔹 3+ years of experience in data-related fields  
+🔹 2+ years of experience in data-related fields  
 🔹 Skilled in **Excel, SQL, Python, Power BI**  
 🔹 Currently pursuing **Master's in Business Analytics**  
 🔹 Based in **New Delhi, India** 🌍  
