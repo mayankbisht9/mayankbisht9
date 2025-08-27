@@ -36,8 +36,8 @@ Hi 👋 My name is Mayank
 ### 🚀 Featured Projects  
 
 - [📊 SuperStore E-Commerce Project (Power BI,Python)](https://github.com/mayankbisht9/Superstore-Ecommerce-Analysis)
-- - [📊 Car-Dekho Analysis Project (Power BI,Python)](https://github.com/mayankbisht9/Car-Dekho-Data-Analysis)
-  Interactive dashboard analyzing regional sales trends and KPIs.  
+-  [📊 Car-Dekho Analysis Project (Power BI,Python)](https://github.com/mayankbisht9/Car-Dekho-Data-Analysis)
+
 
 ---
 
